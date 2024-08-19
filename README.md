@@ -1,0 +1,1 @@
+DSA stands for Data Structures and Algorithms, which are fundamental skills for programmers and software engineers. DSA is the basis for efficient software development and is used in many areas of software, including operating systems, database systems, web applications, and machine learning.
